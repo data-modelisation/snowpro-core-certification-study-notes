@@ -27,9 +27,18 @@ Pricing : ...
 
 ## Enterprise 
 
-*  Standard +  Additional features for needs of large-scale enterprises 
-Features : 
-...
+*  Standard +  Additional features for needs of large-scale enterprises
+  
+Features :
+
+- All standard features 
+- Multi-cluster warehouse 
+- Time travel up to 90 days 
+- Materialized views 
+- Search Optimization 
+- Column-level security 
+- 24-hour early access to weekly new releases
+  
 Pricing : 
 ... 
 
