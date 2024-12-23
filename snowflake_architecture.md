@@ -1,6 +1,7 @@
 # Snowflake Architecture
 
 ## Overview 
+Snowflake uses a hybrid of shared-disk and shared-nothing architecture. 
 
 ## Snowflake Architecture Layers 
 Snowflake architecture consists of  three distinct layers : 
