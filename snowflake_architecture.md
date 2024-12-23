@@ -3,6 +3,12 @@
 ## Overview 
 Snowflake uses a hybrid of shared-disk and shared-nothing architecture. 
 
+Similar to shared-disk architectures:
+- Snowflake uses a central data repository for persisted data accessible from all compute nodes
+   
+Similar to shared-nothing architectures (e.g. Hadoop, Spark)
+- Snowflake processes queries using virtual warehouses
+      
 ## Snowflake Architecture Layers 
 Snowflake architecture consists of  three distinct layers : 
 
