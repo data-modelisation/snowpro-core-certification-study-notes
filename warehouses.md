@@ -16,8 +16,10 @@ Multi-cluster : add additional cluster and group queries in this one multi-clust
 
 For the complex workload it is better use bigger size of the warehouse! 
 
-## Multi-cluster warehouse - Scaling policy 
-
-**Standard (default)**- favors starting additional warehouses.  
-**Economy** - favors conserving credits rather than starting additional warehouses. 
+Scaling policy :  
+- *Standard (default)*- favors starting additional warehouses.  
+- *Economy* - favors conserving credits rather than starting additional warehouses. 
 Cluster start only if the system estimates there's enough query load to keep the cluster <ins>busy for at least 6 minutes</ins>. Cluster shuts down after 5 to 6 consecutive successful checks. 
+
+## Create warehouse
+Admin->warehouses->new warehouse 
