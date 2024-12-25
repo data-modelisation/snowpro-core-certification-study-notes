@@ -93,9 +93,8 @@ Depending on the size of the warehouse
 Time / active warehouse / size 
 Charged in credits 
 
-![[Pasted image 20241225140402.png]]
-
-![[Pasted image 20241225140307.png]]
+<img width="349" alt="Pasted image 20241225140402" src="https://github.com/user-attachments/assets/25c330d7-a206-48ae-85cf-b3abcd786404" />
+<img width="711" alt="Pasted image 20241225140307" src="https://github.com/user-attachments/assets/0d96b162-3425-45c8-a0ad-56d91d7cc2eb" />
 
 ## Storage Cost 
 
