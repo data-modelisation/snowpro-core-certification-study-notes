@@ -22,4 +22,17 @@ Scaling policy :
 Cluster start only if the system estimates there's enough query load to keep the cluster <ins>busy for at least 6 minutes</ins>. Cluster shuts down after 5 to 6 consecutive successful checks. 
 
 ## Create warehouse
+
 Admin->warehouses->new warehouse 
+
+```sql
+CREATE WAREHOUSE SECOND_WH
+WITH
+WAREHOUSE_TYPE=SNOWPARK
+WAREHOUSE_SIZE = XSMALL
+MIN_CLUSTER_COUNT = 1 
+MAX_CLUSTER_COUNT = 2
+AUTO_RESUME = TRUE 
+AUTO_SUSPEND = 300
+COMMENT = 'This is our second warehouse '
+```
