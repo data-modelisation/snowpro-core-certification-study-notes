@@ -38,3 +38,11 @@ There three differents types of stage :
 * cannot be altered or dropped 
 * load to one table 
 * referred to with '@%TABLE_NAME'
+
+### Named stages @STAGE_NAME
+* CREATE SATGE ...
+* Snowflake database object 
+* Everyone with privileges can access it 
+* Most flexible 
+* Referred to with '@STAGE_NAME'
+
