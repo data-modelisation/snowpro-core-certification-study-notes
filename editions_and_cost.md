@@ -59,7 +59,8 @@ Pricing :
 Highest level of security 
 
 Features : 
-...
+ - All the features and services of Business Critical Edition
+ - Completely separate Snowflake environment, isolated from all other Snowflake accounts
 
 # 
 Pricing : 
