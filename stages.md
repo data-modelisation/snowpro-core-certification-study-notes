@@ -9,7 +9,6 @@ Not to be confused with datawarehouse stages.
 * External stages : manged by external cloud provider (AWS, GCP , Azure )   
 
 
-
 ## Internal stages
 
 Uploading : 
@@ -45,4 +44,17 @@ There three differents types of stage :
 * Everyone with privileges can access it 
 * Most flexible 
 * Referred to with '@STAGE_NAME'
+
+
+## External stages 
+
+* CREATE STAGE ...
+* Snowflake database object 
+* Everyone with privileges can access it 
+* Referred to with '@STAGE_NAME'
+
+```sql
+CREATE STAGE <stage_name>
+ URL = 's3://bucket/path/'
+```
 
