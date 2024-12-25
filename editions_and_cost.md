@@ -93,33 +93,29 @@ Depending on the size of the warehouse
 Time / active warehouse / size 
 Charged in credits 
 
-
 ![[Pasted image 20241225140402.png]]
 
 ![[Pasted image 20241225140307.png]]
 
-
 ## Storage Cost 
 
-Monthly storage fees 
-Based on average storage used per month 
-Cloud providers 
-Cost calculated after compression 
+- Monthly storage fees 
+- Based on average storage used per month 
+- Cloud providers 
+- Cost calculated after compression 
 
 ### On-demande storage 
-Pay only for what you use depending of the region 
-$45/TB
+- Pay only for what you use depending of the region 
+- $45/TB
 
 ### Capacity Storage 
-Pay only for defined capacity upfront 
-$24.50/TB
-
+- Pay only for defined capacity upfront 
+- $24.50/TB
 
 ## Data Transfer
-
-Data ingress FREE 
-Data egress CHARGED 
-Cloud Storage Provider
+- Data ingress FREE 
+- Data egress CHARGED 
+- Cloud Storage Provider
 
 
 # Links 
