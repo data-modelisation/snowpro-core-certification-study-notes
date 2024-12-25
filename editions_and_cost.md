@@ -69,6 +69,35 @@ Pricing :
 
 <img width="557" alt="Pasted image 20241223231449" src="https://github.com/user-attachments/assets/e2c98002-54cb-4e0b-87d9-5dc046f64bfd" />
 
+# Snowflake Pricing
+
+Compute and Storage costs decoupled 
+Pay only what you need 
+Scalable and at affordable cloud price 
+Pricing depending on the region/cloud provider
+
+
+Cost is separated in three parts : Compute,  Data Transfer  and Storage 
+
+## Compute Cost 
+
+Compute Cost include : 
+- Active warehouse 
+- Cloud Services - only charged if exceeds 10% of warehouse consumption 
+- Serverless (search optimization, snowpipe) 
+
+Charged for active warehouse per hour 
+Billed by second (minimum 1 min)
+Depending on the size of the warehouse 
+
+Time / active warehouse / size 
+Charged in credits 
+
+
+![[Pasted image 20241225140402.png]]
+
+![[Pasted image 20241225140307.png]]
+
 
 ## Storage Cost 
 
