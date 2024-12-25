@@ -69,5 +69,29 @@ Pricing :
 
 <img width="557" alt="Pasted image 20241223231449" src="https://github.com/user-attachments/assets/e2c98002-54cb-4e0b-87d9-5dc046f64bfd" />
 
+
+## Storage Cost 
+
+Monthly storage fees 
+Based on average storage used per month 
+Cloud providers 
+Cost calculated after compression 
+
+### On-demande storage 
+Pay only for what you use depending of the region 
+$45/TB
+
+### Capacity Storage 
+Pay only for defined capacity upfront 
+$24.50/TB
+
+
+## Data Transfer
+
+Data ingress FREE 
+Data egress CHARGED 
+Cloud Storage Provider
+
+
 # Links 
 https://docs.snowflake.com/en/user-guide/intro-editions
