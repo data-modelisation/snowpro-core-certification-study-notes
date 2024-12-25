@@ -15,7 +15,11 @@ Uploading :
 - by default AUTO_COMPRESS = TRUE 
 - Data will be compressed .gz 
 - Automatically encrypted (128 bit or 256 bit keys)
-  
+
+
+To upload a file into an internal stage in Snowflake, you can use the **PUT** command. The general syntax for the PUT command is as follows: PUT @/;  
+We use the **GET** command to download files only from internal stages. To download files from an external stage, we need to use the external cloud provider’s utitlities.  
+
 There three differents types of stage : 
 * User stages 
 * Table stages 
