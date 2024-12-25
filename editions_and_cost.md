@@ -48,7 +48,8 @@ Pricing :
 Features : 
 - All Enterprise features 
 - Additional security features (customer encryption)
-- Support for data specific regulation 
+- Support for data specific regulation
+- Database failover/failback (disaster recovery)
 
 Pricing : 
 ... 
