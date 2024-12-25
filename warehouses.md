@@ -16,7 +16,7 @@ Multi-cluster : add additional cluster and group queries in this one multi-clust
 
 For the complex workload it is better use bigger size of the warehouse! 
 
-## Scaling policy 
+## Multi-cluster warehouse - Scaling policy 
 
 **Standard (default)**- favors starting additional warehouses.  
 **Economy** - favors conserving credits rather than starting additional warehouses. 
