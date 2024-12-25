@@ -21,7 +21,8 @@ Features :
 - Time travel up to 1 day 
 - Disaster recovery for 7 days  beyond time travel 
 - Security data share 
-- Federated authentification & SSO 
+- Federated authentification & SSO
+- Network policies 
 - Premier support 24/7 
 
 
