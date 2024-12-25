@@ -36,3 +36,7 @@ AUTO_RESUME = TRUE
 AUTO_SUSPEND = 300 --5mins
 COMMENT = 'This is our second warehouse '
 ```
+
+```sql
+DROP WAREHOUSE SECOND_WH;
+```
