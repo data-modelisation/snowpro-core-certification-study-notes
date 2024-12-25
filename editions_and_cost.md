@@ -6,7 +6,9 @@ Snowflake offers multiple editions. Each successive edition builds on the previo
 * **Enterprise** - Standard +  Additional features for needs of large-scale enterprises
 * **Business Critical**  -  Enterprise + higher data protection for organizations with extremely sensitive data 
 * **Virtual Private**  -  Highest level of security
-  
+
+# Editions 
+
 ## Standard 
 
 * Introductory level
@@ -58,8 +60,12 @@ Highest level of security
 
 Features : 
 ...
+
+# 
 Pricing : 
 ... 
 
 <img width="557" alt="Pasted image 20241223231449" src="https://github.com/user-attachments/assets/e2c98002-54cb-4e0b-87d9-5dc046f64bfd" />
 
+# Links 
+https://docs.snowflake.com/en/user-guide/intro-editions
