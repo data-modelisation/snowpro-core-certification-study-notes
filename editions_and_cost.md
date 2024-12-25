@@ -46,7 +46,10 @@ Pricing :
 * Enterprise + higher data protection for organizations with extremely sensitive data 
 
 Features : 
-...
+- All Enterprise features 
+- Additional security features (customer encryption)
+- Support for data specific regulation 
+
 Pricing : 
 ... 
 ## Virtual Private 
