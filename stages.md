@@ -58,3 +58,24 @@ CREATE STAGE <stage_name>
  URL = 's3://bucket/path/'
 ```
 
+## Commandes 
+
+SHOW STAGES;
+
+description of external stage   
+DESC STAGE manage_db.external_stages.aws_stage;  
+
+LIST @STAGE_NAME;  
+LIST @~;   
+LIST @%TABLE_STAGE_NAME; 
+
+COPY INTO TABLE_NAME   
+FROM @STAGE_NAME;   
+
+COPY INTO @STAGE_NAME  
+FROM TABLE_NAME;   
+
+SELECT * FROM @STAGE_NAME  
+SELECT $1, $2  FROM @STAGE_NAME  
+
+
