@@ -1,6 +1,9 @@
 # Warehouses
 Warehouse is used to provide <ins>compute resources</ins> to execute queries and operations.
 
+Warehouses can be started and stopped at any time. They can also be resized at any time, even while running.   
+A warehouse can be set to automatically resume or suspend, based on activity.   
+
 ## Typologies of the warehouse
 
 Types of the warehouse :  
@@ -40,3 +43,11 @@ COMMENT = 'This is our second warehouse '
 ```sql
 DROP WAREHOUSE SECOND_WH;
 ```
+
+# Tips 
+Increasing the size of a warehouse does not always improve data loading performance!  
+
+Larger is not necessarily faster for small, basic queries.  
+
+# Links 
+https://docs.snowflake.com/en/user-guide/warehouses-overview
